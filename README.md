@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge&logo=github" alt="Status Ativo" />
   <img src="https://img.shields.io/github/followers/portxh?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/portxh?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/paulo-h-porto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </div>
 
 ---
