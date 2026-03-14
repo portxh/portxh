@@ -10,8 +10,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen?style=for-the-badge&logo=github" alt="Status Ativo" />
-  <img src="https://img.shields.io/github/followers/pauloporto?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/pauloporto?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/portxh?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/portxh?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </div>
 
@@ -103,8 +103,8 @@ Olá! Sou **Paulo Porto**, estudante de **Análise e Desenvolvimento de Sistemas
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauloporto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloporto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=portxh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portxh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
@@ -118,7 +118,7 @@ Olá! Sou **Paulo Porto**, estudante de **Análise e Desenvolvimento de Sistemas
   <a href="mailto:portoohenrique@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/pauloporto" target="_blank">
+  <a href="https://github.com/portxh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
